@@ -1,6 +1,6 @@
 {
   "name": "asyncforeach-prototype",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Asynchronous for loop prototype",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
     "foreach",
     "async",
     "prototype"
-
   ],
   "repository": {
     "type": "git",
