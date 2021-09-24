@@ -1,0 +1,24 @@
+{
+  "name": "asyncforeach-prototype",
+  "version": "1.0.1",
+  "description": "Asynchronous for loop prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asynchronous",
+    "forloop",
+    "array",
+    "foreach",
+    "async",
+    "prototype"
+
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aybee5/asyncForEach.git"
+  },
+  "author": "Ibrahim Abdullahi Aliyu",
+  "license": "MIT"
+}
